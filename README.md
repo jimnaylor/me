@@ -143,8 +143,9 @@ Whether launching a fintech product or scaling a global B2B marketplace, I focus
 
 ## 🧪 Projects  
 <p>
-  <img src="/assets/img/eFleckt_welcome_screen.jpg" alt="eFleckt Memory Grid" width="25%" align="right" style="margin-left: 15px; border-radius: 8px;"></img>
+  <img src="/assets/img/eFleckt_welcome_screen.jpg" alt="eFleckt Memory Grid" width="25%" align="right" style="margin-left: 15px; border-radius: 8px;">
 </p>
+
 ### **eFleckt** — Voice-First Memoir App  (in early Alpha as of 10/2025)  
 *B2C — Consumer AI App*  
 [www.eFleckt.com](https://www.efleckt.com)
