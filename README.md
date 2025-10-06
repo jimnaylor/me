@@ -2,7 +2,7 @@
 ### Consumer Product Management Leader & Builder — Marketplaces • Loyalty • Fintech • SaaS • Martech & CDP • AI & Voice  
 
 #### Technical Skills  
-Product Strategy • Product Operations • CDP & Martech Architecture (Segment, Mixpanel, Posthog, Adobe) • Data Hygiene & Attribution Modeling • Applied LLM Orchestration • Experimentation • Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter • Firebase • GCP • Stripe • Twilio  
+0→1 Product Creation • Product Strategy • Product Operations • CDP & Martech Architecture (Segment, Mixpanel, Posthog, Adobe) • Data Hygiene & Attribution Modeling • Applied LLM Orchestration • Experimentation • Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter • Firebase • GCP • Stripe • Twilio
 
 ---
 
@@ -18,7 +18,6 @@ I’m passionate about:
 📍 San Clemente, California  
 📫 [jamesnaylor1@gmail.com](mailto:jamesnaylor1@gmail.com)  
 🔗 [linkedin.com/in/jimnaylor](https://www.linkedin.com/in/jimnaylor)  
-🌐 [JimNaylor.com](https://www.jimnaylor.com)  
 
 ---
 
@@ -157,16 +156,16 @@ A personal storytelling platform that transforms your spoken memories into emoti
 ---
 
 ## 🎤 Talks & Recognition  
+- **LogRocket Leader Spotlight**, [Emphasizing clear, thoughtful documentation](https://stories.logrocket.com/p/leader-spotlight-emphasizing-clear)
 - **Speaker**, AbbVie Flagship 2023 – *Product-Driven Data Hygiene*  
 - **Webby Award Honoree**, Customer Service (@EdmundsLive)  
 - **Top Talent Award**, AOL 9.0 Build Engineering  
-- **Guest Speaker**, *Data Activation in Product Management*  
 
 ---
 
-> *“Leadership isn’t about authority — it’s about clarity, connection, and the courage to build what matters.”*  
+> *“I’ve built from zero enough times to know the real advantage isn’t speed — it’s clarity. When teams document what they learn, they don’t just ship features; they build systems other people can grow upon.”*  
 
 ---
 
 **📬 Contact**  
-[jamesnaylor1@gmail.com](mailto:jamesnaylor1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jimnaylor) • [JimNaylor.com](https://www.jimnaylor.com)
+[jamesnaylor1@gmail.com](mailto:jamesnaylor1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jimnaylor)
