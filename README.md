@@ -27,6 +27,12 @@ I’m passionate about:
 
 ---
 
+## 💡 Personal Philosophy  
+I build products that create **trust through clarity**, reduce friction, and empower users to make confident decisions.  
+Whether launching a fintech product or scaling a global B2B marketplace, I focus on connecting **data, empathy, and design** to deliver measurable business outcomes.  
+
+---
+
 ## 💼 Work Experience  
 
 ### **Carvana** — Director of Product  
@@ -155,12 +161,6 @@ A personal storytelling platform that transforms your spoken memories into emoti
 - **Webby Award Honoree**, Customer Service (@EdmundsLive)  
 - **Top Talent Award**, AOL 9.0 Build Engineering  
 - **Guest Speaker**, *Data Activation in Product Management*  
-
----
-
-## 💡 Personal Philosophy  
-I build products that create **trust through clarity**, reduce friction, and empower users to make confident decisions.  
-Whether launching a fintech product or scaling a global B2B marketplace, I focus on connecting **data, empathy, and design** to deliver measurable business outcomes.  
 
 ---
 
