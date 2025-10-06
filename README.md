@@ -153,7 +153,8 @@ A personal storytelling platform that transforms your spoken memories into emoti
 - Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**, integrating asynchronous processing and user data management.  
 - Crafted a cross-platform UX system in **Figma** and **Framer**, ensuring a cohesive design language and interactive visualizations of emotional states.  
 
-![eFleckt Memory Grid](/assets/img/efleckt_mockup.jpg)  
+![eFleckt Memory Grid](/assets/img/eFleckt_welcome_screen.png)  
+
 
 ---
 
