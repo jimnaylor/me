@@ -1,8 +1,9 @@
 # Jim Naylor  
-### Global Product Leader — Marketplaces • SaaS • Loyalty • Fintech • Martech • Automotive  
+### Product Management Leader & Builder — Consumer • Marketplaces • Loyalty • AI • Fintech • SaaS • Martech • AI • Voice
+
 
 #### Technical Skills  
-Product Strategy • Product Operations • Data Platforms (CDP, AEP, Mixpanel, Segment) • Experimentation • Analytics • Roadmapping • Agile Leadership • API Ecosystems • UX Design • Flutter • Firebase • GCP • Stripe  
+Product Strategy • Product Operations • Data Platforms & CDPs (Segment, Mixpanel, Posthog, Adobe) • Applied LLM Orchestration • Data Hygiene & Attribution Modeling • Experimentation • Ethnographic Research • Analytics • Martech Architecture • Roadmapping • Agile Leadership • API Ecosystems • UX Design • Flutter • Firebase • GCP • Stripe • Twilio
 
 ---
 
@@ -115,14 +116,15 @@ I’m passionate about:
 
 ---
 
-### **eFleckt** — Founder & Builder  
-> **Transforming memories into meaning — a voice-first memoir app that turns spoken moments into organized, emotional stories using AI.**  
+### **NaylorMade, LLC** — Founder & Principal  
+> **Advising and building at the intersection of product, data, and storytelling — helping emerging ventures find product-market fit and operational scale.**  
 
-- Created and designed **eFleckt**, a voice-journaling app that transcribes, summarizes, and maps emotional tone.  
-- Built using **Flutter**, **Firebase**, **GCP**, and **Stripe**, integrating LLMs for transcription and sentiment analysis.  
-- Designed UI and memory visualization in **Figma** and **Framer** for cross-platform cohesion.  
-- Architected server workflows for sequential AI processing, reducing processing time to ~60 seconds per recording.  
-- Developed a unique calendar-based UX visualizing 52×100 “life weeks” of emotional history.  
+- Serve as **advisor and fractional product leader** for early-stage startups, guiding product-market fit, roadmap strategy, and go-to-market readiness.
+- Provide consulting on **product discipline, data hygiene, and martech architecture**, embedding CDP frameworks and attribution models for scalable growth.  
+- Founded **eFleckt** under the NaylorMade umbrella — a voice-first memoir app leveraging LLMs, emotion mapping, and Flutter-based design.  
+- Developed repeatable **product ops playbooks** covering intake, prioritization, and LOE-to-ROI frameworks used by multiple client organizations.  
+- Offer **hands-on product and design mentorship**, supporting founders and teams in defining mission, metrics, and execution rhythms.
+- Clients Included: [Jerry](https://jerry.ai/), [DrTalks](https://www.DrTalks.com), [SuperMoney](https://www.supermoney.com/), and others!
 
 ---
 
@@ -130,11 +132,12 @@ I’m passionate about:
 
 ### **eFleckt** — Voice-First Memoir App  
 [www.eFleckt.com](https://www.efleckt.com)  
-A personal storytelling platform that uses your voice, AI, and emotion mapping to help you build your memoir over time.  
+A personal storytelling platform that transforms your spoken memories into emotionally intelligent narratives using voice, AI, and data visualization.  
 
-- Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**.  
-- Integrates **LLMs** for transcription, summarization, and sentiment analysis.  
-- Designed the UX system in **Figma** and **Framer** for cross-platform consistency.  
+- Designed an **AI pipeline** that combines speech recognition, natural language understanding, and emotion modeling to transform unstructured audio into structured, emotionally aware storytelling data.  
+- Leveraged **LLMs** for transcription, summarization, and sentiment analysis, enabling contextually rich and privacy-first memory insights.  
+- Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**, integrating asynchronous processing and user data management.  
+- Crafted a cross-platform UX system in **Figma** and **Framer**, ensuring a cohesive design language and interactive visualizations of emotional states.  
 
 ![eFleckt Memory Grid](/assets/img/efleckt_mockup.jpg)  
 
