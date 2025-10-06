@@ -4,7 +4,16 @@
 ### Loyalty • Fintech • SaaS • CDP • AI & Voice  
 
 #### Technical Skills  
-0→1 Product Creation • Product Strategy • Product Operations • CDP & Martech Architecture (Segment, Mixpanel, Posthog, Adobe) • Data Hygiene & Attribution Modeling • Applied LLM Orchestration • Experimentation • Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter • Firebase • GCP • Stripe • Twilio
+0→1 Product Creation • Product Strategy & Operations • CDP & Martech Architecture • Data Hygiene & Attribution Modeling • Applied AI & LLM Orchestration • Experimentation & Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter Development • Firebase & GCP Integration • Payments Architecture (Stripe, Twilio)
+
+#### Systems & Platforms  
+**Product & Collaboration:** Jira • Confluence • Productboard • Workfront • Aha! • Figma • Framer • Slack  
+**Analytics & Data:** Adobe Analytics • GA4 • Mixpanel • Posthog • FullStory • BigQuery • Looker • Optimizely  
+**Martech & CDP:** Adobe Experience Platform • Marketo • Salesforce Marketing Cloud • CarltonOne • SAP Marketing Cloud  
+**Fintech & Commerce:** Stripe • Plaid • Salesforce CRM • FICO APIs  
+**Automotive & Marketplaces:** Carvana Platform • Edmunds API • Dealertrack • RouteOne • loanDepot (Encompass)  
+**AI & Cloud:** OpenAI APIs • Firebase • GCP • Zapier • n8n • GitHub  
+**Legacy & Engineering:** Solaris • Linux • Visual Studio • Perforce • AOL Build Systems  
 
 ---
 
@@ -146,12 +155,10 @@ Whether launching a fintech product or scaling a global B2B marketplace, I focus
   <img src="/assets/img/eFleckt_welcome_screen.jpg" alt="eFleckt Memory Grid" width="25%" align="right" style="margin-left: 15px; border-radius: 8px;">
 </p>
 
-### **eFleckt** — Voice-First Memoir App  (in early Alpha as of 10/2025)  
+### **eFleckt** — Voice-First Memoir App  (in targeted Alpha as of 10/2025)  
 *B2C — Consumer AI App*  
 [www.eFleckt.com](https://www.efleckt.com)
 > **A personal storytelling platform that transforms your spoken memories into emotionally intelligent narratives using voice, AI, and data visualization.**  
-
-
 
 - Designed an **AI pipeline** combining speech recognition, natural language understanding, and emotion modeling to transform unstructured audio into structured, emotionally aware storytelling data.  
 - Leveraged **LLMs** for transcription, summarization, and sentiment analysis, enabling contextually rich and privacy-first memory insights.  
