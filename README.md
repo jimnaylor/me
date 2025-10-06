@@ -24,7 +24,7 @@ My work has helped launch **platforms that collectively generate over $10B in an
 I’m passionate about:  
 - Turning complex systems into frictionless, human-centered experiences  
 - Scaling teams and frameworks that balance creativity with measurable outcomes  
-- Building a culture where learning, empathy, and fun coexist with high performance  
+- [Building a culture](https://www.linkedin.com/in/jimnaylor/details/recommendations/) where learning, empathy, and fun coexist with high performance  
 
 📍 San Clemente, California  
 📫 [JamesNaylor1@gmail.com](mailto:jamesnaylor1@gmail.com)  
@@ -165,12 +165,11 @@ Whether launching a fintech product or scaling a global B2B marketplace, I focus
 - Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**, integrating asynchronous processing and user-data management.  
 - Crafted a cross-platform UX system in **Figma** and **Framer**, ensuring a cohesive design language and interactive visualizations of emotional states.  
 
-
 ---
 
 ## 🎤 Talks & Recognition  
 - **LogRocket Leader Spotlight**, [Emphasizing clear, thoughtful documentation](https://stories.logrocket.com/p/leader-spotlight-emphasizing-clear)
-- **Speaker**, AbbVie Flagship 2023 – *Product-Driven Data Hygiene*  
+- **Speaker**, Split.io Flagship 2023 – *Product-Driven Data Hygiene*  
 - **Webby Award Honoree**, Customer Service (@EdmundsLive)  
 - **Top Talent Award**, AOL 9.0 Build Engineering  
 
