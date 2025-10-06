@@ -1,5 +1,5 @@
 title: Jim Naylor
-#logo: relative path to image /assets/img/foo.jpg
+logo: /assets/img/2022_headshot.jpg
 #description: text below image
 #show_downloads: false
 theme: jekyll-theme-minimal
