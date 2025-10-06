@@ -18,7 +18,7 @@ I’m passionate about:
 - Building a culture where learning, empathy, and fun coexist with high performance  
 
 📍 San Clemente, California  
-📫 [jamesnaylor1@gmail.com](mailto:jamesnaylor1@gmail.com)  
+📫 [JamesNaylor1@gmail.com](mailto:jamesnaylor1@gmail.com)  
 🔗 [linkedin.com/in/jimnaylor](https://www.linkedin.com/in/jimnaylor)  
 
 ---
@@ -174,4 +174,4 @@ Whether launching a fintech product or scaling a global B2B marketplace, I focus
 ---
 
 **📬 Contact**  
-[jamesnaylor1@gmail.com](mailto:jamesnaylor1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jimnaylor)
+[JamesNaylor1@gmail.com](mailto:jamesnaylor1@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jimnaylor)
