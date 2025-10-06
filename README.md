@@ -1,6 +1,7 @@
 # Jim Naylor  
-## Consumer Product Management Leader & Builder 
-### Marketplaces • Loyalty • Fintech • SaaS • Martech & CDP • AI & Voice  
+## Leader & Builder of 0→1 Consumer, Marketplace, and Martech Products
+
+### Loyalty • Fintech • SaaS • CDP • AI & Voice  
 
 #### Technical Skills  
 0→1 Product Creation • Product Strategy • Product Operations • CDP & Martech Architecture (Segment, Mixpanel, Posthog, Adobe) • Data Hygiene & Attribution Modeling • Applied LLM Orchestration • Experimentation • Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter • Firebase • GCP • Stripe • Twilio
