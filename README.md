@@ -142,18 +142,20 @@ Whether launching a fintech product or scaling a global B2B marketplace, I focus
 ---
 
 ## 🧪 Projects  
-
-### **eFleckt** — Voice-First Memoir App  (in early Alpha as of 10/2025)
+<p>
+  <img src="/assets/img/eFleckt_welcome_screen.png" alt="eFleckt Memory Grid" width="25%" align="right" style="margin-left: 15px; border-radius: 8px;"></img>
+</p>
+### **eFleckt** — Voice-First Memoir App  (in early Alpha as of 10/2025)  
 *B2C — Consumer AI App*  
-[www.eFleckt.com](https://www.efleckt.com)  
-A personal storytelling platform that transforms your spoken memories into emotionally intelligent narratives using voice, AI, and data visualization.  
+[www.eFleckt.com](https://www.efleckt.com)
+> **A personal storytelling platform that transforms your spoken memories into emotionally intelligent narratives using voice, AI, and data visualization.**  
 
-- Designed an **AI pipeline** that combines speech recognition, natural language understanding, and emotion modeling to transform unstructured audio into structured, emotionally aware storytelling data.  
+
+
+- Designed an **AI pipeline** combining speech recognition, natural language understanding, and emotion modeling to transform unstructured audio into structured, emotionally aware storytelling data.  
 - Leveraged **LLMs** for transcription, summarization, and sentiment analysis, enabling contextually rich and privacy-first memory insights.  
-- Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**, integrating asynchronous processing and user data management.  
+- Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**, integrating asynchronous processing and user-data management.  
 - Crafted a cross-platform UX system in **Figma** and **Framer**, ensuring a cohesive design language and interactive visualizations of emotional states.  
-
-![eFleckt Memory Grid](/assets/img/eFleckt_welcome_screen.png)  
 
 
 ---
