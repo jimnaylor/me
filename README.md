@@ -1,9 +1,8 @@
 # Jim Naylor  
-### Product Management Leader & Builder — Consumer • Marketplaces • Loyalty • AI • Fintech • SaaS • Martech • AI • Voice
-
+### Consumer Product Management Leader & Builder — Marketplaces • Loyalty • Fintech • SaaS • Martech & CDP • AI & Voice  
 
 #### Technical Skills  
-Product Strategy • Product Operations • Data Platforms & CDPs (Segment, Mixpanel, Posthog, Adobe) • Applied LLM Orchestration • Data Hygiene & Attribution Modeling • Experimentation • Ethnographic Research • Analytics • Martech Architecture • Roadmapping • Agile Leadership • API Ecosystems • UX Design • Flutter • Firebase • GCP • Stripe • Twilio
+Product Strategy • Product Operations • CDP & Martech Architecture (Segment, Mixpanel, Posthog, Adobe) • Data Hygiene & Attribution Modeling • Applied LLM Orchestration • Experimentation • Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter • Firebase • GCP • Stripe • Twilio  
 
 ---
 
@@ -31,62 +30,67 @@ I’m passionate about:
 ## 💼 Work Experience  
 
 ### **Carvana** — Director of Product  
-> **One of the most radical consumer experience transformations of the decade — built the world’s first 5-minute pre-owned car-buying journey and helped propel Carvana from startup to IPO.**  
+*B2C — Automotive E-commerce*  
+> **One of the most radical consumer experience transformations of the decade — built the world’s first 5-minute online car-buying journey and helped propel Carvana from startup to IPO.**  
 
 - Scaled Carvana’s purchasing funnel from **3 cars per week → 300+ per day**, unlocking the growth that fueled its IPO.  
 - Created the first **fully online car-buying flow**, reducing friction and setting a new standard for digital trust.  
 - Increased ancillary product attach rate by **30%**, generating **$27M+ in annual incremental revenue**.  
-- Led **600+ user-testing experiments** optimizing readability, task completion, and conversion velocity.  
+- Led **600+ user-testing experiments**, optimizing readability, task completion, and conversion velocity.  
 
 ---
 
 ### **Allergan Aesthetics (AbbVie)** — Director of Product, UX & Product Ops  
+*B2B2C — Medical Practices & Consumers*  
 > **Architected the digital loyalty engine behind Botox and the world’s most recognized aesthetics brands — scaling Allē from concept to 7M+ consumers and redefining personalization in medical retail.**  
 
-- Launched **Allē**, growing from zero to **7M+ consumers and 23K providers** in under 3.5 years.  
-- Invented **Allē Flash**, an ML-powered offer engine delivering **$350M in annual retail profit** and **$120M incremental profit** for AbbVie.  
+- Launched **Allē**, growing from zero to **7M+ consumers and 23K+ providers** in under 3.5 years.  
+- Invented **Allē Flash**, an ML-powered offer engine delivering **$350M in annual retail profit** and **$120M in incremental profit** for AbbVie.  
 - Authored a **data-hygiene framework** reducing CDP schema complexity by **87%**, cutting change cycles from weeks to minutes.  
-- Scaled the product & UX organization **5×**, establishing onboarding, documentation, and rituals that sustained velocity and trust.  
+- Scaled the product and UX organization **5×**, establishing onboarding, documentation, and rituals that sustained velocity and trust.  
 - Unified **40+ global stakeholders** across legal, privacy, marketing, and engineering to deliver compliant experimentation at scale.  
 
 ---
 
 ### **Ingram Micro** — Global Director of Product, Marketing Engine  
+*B2B — Technology Vendors & Resellers*  
 > **Modernized a $49B enterprise marketplace — transforming vendor marketing from a cost center into a self-serve, data-driven profit engine powering global revenue growth.**  
 
-- **Led end-to-end product strategy** for the Marketing Engine platform across **24 countries**, managing **$350M+ in annual vendor marketing revenue** and driving measurable campaign performance improvements.  
+- **Led end-to-end product strategy** for the Marketing Engine platform across **24+ countries**, managing **$350M+ in annual vendor marketing revenue** and driving measurable campaign performance improvements.  
 - **Redesigned marketing-campaign operations**, reducing cycle times from **13 days to 2 days (85% improvement)**, achieving **90% adoption**, and freeing **120+ monthly hours** for the data team to focus on optimization and insights.  
-- **Launched the Ultra loyalty ecosystem** from concept to production in **8+ countries**, aligning product, engineering, finance, and regional marketing teams while establishing new revenue-attribution frameworks.  
+- **Launched the Ultra loyalty ecosystem** from concept to production in **8+ countries**, aligning product, engineering, finance, and regional marketing teams while establishing new revenue attribution frameworks.  
 - **Architected a migration strategy** from a third-party marketing backend to an in-house system, securing a **$500K budget** and ensuring operational continuity for platforms handling **$350M+ in vendor-driven marketing revenue**.  
 - **Built a marketing attribution and analytics infrastructure**, implementing **multi-touch attribution models** and real-time dashboards that improved ROI visibility and revenue optimization across **50+ global marketing programs**.  
 
 ---
 
 ### **AOL** — Technical Manager, Client Software Engineering  
+*B2C — Consumer Software Products*  
 > **Led build engineering for some of the internet’s earliest icons — from AOL 9.0 and AIM to Netscape and Winamp — shaping how millions first came online.**  
 
 - Became the **youngest engineering manager in AOL’s history at the time**, leading global teams supporting 150+ software initiatives.  
 - Led localization for **AOL 6.0 Hong Kong**, navigating complex double-byte character sets for new markets.  
+- Built automation and localization tools that cut release cycles from months to days, saving **$25M in annual operating costs**.  
 - Earned **AOL Top Talent Award (2004)** for innovation on AOL 9.0 build systems.  
-- Built automation and localization tools that cut release cycles from months to days, saving **$25M annually in opex**.  
 
 ---
 
 ### **Edmunds.com** — Director of Product, Consumer  
+*B2B2C — Dealers & Consumers*  
 > **Helped reinvent how people shop for cars online — scaling API partnerships to thousands of developers and winning a Webby Award for digital customer engagement.**  
 
 - Expanded the Edmunds API ecosystem to **8,500+ active developers** and **7,000+ registered apps**, fueling partner growth.  
 - Improved used-vehicle lead conversions by **9×** through UX redesigns and page-load optimization (5× faster than legacy).  
 - Created **@EdmundsLive**, a first-of-its-kind Twitter car-shopping assistant and **Webby Award Honoree**.  
 - Led a full redesign of the search results page (SRP), boosting conversion by **40%** and enhancing scalability.  
-- Launched API widget partnerships generating new lead channels and reducing customer-acquisition costs.  
 
 ---
 
 ### **Happy Money** — Director of Product, Consumer Lending  
+*B2C — Fintech Lending & Savings*  
 > **Brought behavioral science to banking — blending emotional intelligence and data to help millions reduce debt and build financial wellness.**  
 
-- Increased loan application conversions by **8%**, driving **$18M+ in incremental revenue** through data-driven A/B testing.  
+- Increased loan-application conversions by **8%**, driving **$18M+ in incremental revenue** through data-driven A/B testing.  
 - Delivered the **Joy Savings Account** in 90 days — merging fintech agility with emotion-positive design.  
 - Operationalized a data infrastructure stack (**Segment, Mixpanel, Split.io**) to enable personalization and experimentation.  
 - Halved product-delivery cycle time by introducing pre-QA validation and parallel testing workflows.  
@@ -95,6 +99,7 @@ I’m passionate about:
 ---
 
 ### **SpringboardAuto** — Senior Director of Product  
+*B2B — Dealer APIs & Credit Unions*  
 > **Pioneered API-driven auto lending — empowering dealers and consumers with instant, personalized financing through predictive machine learning.**  
 
 - Increased dealership revenue by **50%** via an API that generated bespoke loan terms per VIN.  
@@ -106,6 +111,7 @@ I’m passionate about:
 ---
 
 ### **loanDepot** — Vice President of Product, Consumer  
+*B2C — Digital Mortgage Platform*  
 > **Reimagined the mortgage experience — building a digital application that boosted completions 60% and set new standards for simplicity in home lending.**  
 
 - Drove a **60% lift in mortgage-application completions** through event-driven analytics and UX refinement.  
@@ -117,20 +123,21 @@ I’m passionate about:
 ---
 
 ### **NaylorMade, LLC** — Founder & Principal  
+*B2B — Product & Martech Advisory*  
 > **Advising and building at the intersection of product, data, and storytelling — helping emerging ventures find product-market fit and operational scale.**  
 
-- Serve as **advisor and fractional product leader** for early-stage startups, guiding product-market fit, roadmap strategy, and go-to-market readiness.
-- Provide consulting on **product discipline, data hygiene, and martech architecture**, embedding CDP frameworks and attribution models for scalable growth.  
+- Serve as **advisor and fractional product leader** for early-stage startups, guiding product-market fit, roadmap strategy, and go-to-market readiness.  
+- Provide consulting on **product discipline, data hygiene, and CDP architecture**, embedding frameworks and attribution models for scalable growth.  
 - Founded **eFleckt** under the NaylorMade umbrella — a voice-first memoir app leveraging LLMs, emotion mapping, and Flutter-based design.  
-- Developed repeatable **product ops playbooks** covering intake, prioritization, and LOE-to-ROI frameworks used by multiple client organizations.  
-- Offer **hands-on product and design mentorship**, supporting founders and teams in defining mission, metrics, and execution rhythms.
-- Clients Included: [Jerry](https://jerry.ai/), [DrTalks](https://www.DrTalks.com), [SuperMoney](https://www.supermoney.com/), and others!
+- Developed repeatable **product-ops playbooks** covering intake, prioritization, and LOE-to-ROI frameworks used by multiple client organizations.  
+- Partnered with clients including [Jerry](https://jerry.ai/), [DrTalks](https://www.DrTalks.com), and [SuperMoney](https://www.supermoney.com/) to deliver scalable product strategies and data-driven systems.  
 
 ---
 
 ## 🧪 Projects  
 
-### **eFleckt** — Voice-First Memoir App  
+### **eFleckt** — Voice-First Memoir App  (in early Alpha as of 10/2025)
+*B2C — Consumer AI App*  
 [www.eFleckt.com](https://www.efleckt.com)  
 A personal storytelling platform that transforms your spoken memories into emotionally intelligent narratives using voice, AI, and data visualization.  
 
