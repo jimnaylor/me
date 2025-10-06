@@ -10,7 +10,7 @@ Product Strategy • Product Operations • Data Platforms (CDP, AEP, Mixpanel, 
 I’ve spent 25+ years leading product innovation at the intersection of **technology and trust** — from online car buying and home lending to loyalty, aesthetics, and B2B marketplaces.  
 My work has helped launch **platforms that collectively generate over $10B in annual revenue**, serving millions of customers globally.  
 
-I’m passionate about:
+I’m passionate about:  
 - Turning complex systems into frictionless, human-centered experiences  
 - Scaling teams and frameworks that balance creativity with measurable outcomes  
 - Building a culture where learning, empathy, and fun coexist with high performance  
@@ -29,72 +29,100 @@ I’m passionate about:
 
 ## 💼 Work Experience  
 
-### **Ingram Micro** — Global Director of Product, Marketing Engine  
-_Irvine, CA | May 2024 – Present_  
-Fortune 100 global B2B marketplace transforming how vendors market and sell technology.  
-- Drove **$79M+ in first-year profit** via self-serve DSPs, sponsored placements, and loyalty programs.  
-- Launched tools enabling vendors to target resellers directly, reducing campaign cycle time by **23%**.  
-- Unified global marketing technologies, improving efficiency and campaign transparency.  
+### **Carvana** — Director of Product  
+> **One of the most radical consumer experience transformations of the decade — built the world’s first 5-minute pre-owned car-buying journey and helped propel Carvana from startup to IPO.**  
+
+- Scaled Carvana’s purchasing funnel from **3 cars per week → 300+ per day**, unlocking the growth that fueled its IPO.  
+- Created the first **fully online car-buying flow**, reducing friction and setting a new standard for digital trust.  
+- Increased ancillary product attach rate by **30%**, generating **$27M+ in annual incremental revenue**.  
+- Led **600+ user-testing experiments** optimizing readability, task completion, and conversion velocity.  
 
 ---
 
 ### **Allergan Aesthetics (AbbVie)** — Director of Product, UX & Product Ops  
-_Orange County, CA | Aug 2020 – May 2024_  
-Founding Product, UX, and Product Ops leader for **Allē**, the #1 aesthetics loyalty platform.  
-- Scaled Allē to **7M+ consumers** and **23K providers** in <3.5 years across iOS, Android, and web.  
-- Invented **Allē Flash**, an ML-driven offer engine that generated **$350M in annual retail profit** and **$120M incremental profit**.  
-- Authored **data hygiene framework** reducing CDP schema by **87%**, cutting change cycles from weeks to minutes.  
-- Grew team 5× while maintaining operational cohesion and velocity.  
+> **Architected the digital loyalty engine behind Botox and the world’s most recognized aesthetics brands — scaling Allē from concept to 7M+ consumers and redefining personalization in medical retail.**  
+
+- Launched **Allē**, growing from zero to **7M+ consumers and 23K providers** in under 3.5 years.  
+- Invented **Allē Flash**, an ML-powered offer engine delivering **$350M in annual retail profit** and **$120M incremental profit** for AbbVie.  
+- Authored a **data-hygiene framework** reducing CDP schema complexity by **87%**, cutting change cycles from weeks to minutes.  
+- Scaled the product & UX organization **5×**, establishing onboarding, documentation, and rituals that sustained velocity and trust.  
+- Unified **40+ global stakeholders** across legal, privacy, marketing, and engineering to deliver compliant experimentation at scale.  
 
 ---
 
-### **Happy Money** — Director of Product  
-_Tustin, CA | Dec 2018 – Aug 2020_  
-Mission-driven fintech helping people pay off credit cards and build savings.  
-- Increased loan conversions by **8%**, driving **$18M+ incremental revenue**.  
-- Launched the **Joy Savings Account** in 90 days, integrating behavioral insights into financial products.  
-- Operationalized CDP and experimentation tooling (Segment, Mixpanel, Split.io).  
-- Halved time-to-ship by enabling QA to pre-validate test cases.  
+### **Ingram Micro** — Global Director of Product, Marketing Engine  
+> **Modernized a $49B enterprise marketplace — transforming vendor marketing from a cost center into a self-serve, data-driven profit engine powering global revenue growth.**  
 
----
-
-### **Carvana** — Director of Product  
-_Phoenix, AZ | Jul 2015 – Nov 2016_  
-Pioneered the world’s first fully online car-buying experience.  
-- Scaled transactions from **3/week → 300+/day**, supporting Carvana’s IPO trajectory.  
-- Increased ancillary product attach rate by **30%**, adding $27M+ annual revenue.  
-- Drove 600+ usability experiments to ensure seamless customer experience.  
-
----
-
-### **loanDepot** — Vice President of Product  
-_Lake Forest, CA | Mar 2017 – Sep 2017_  
-- Delivered modern digital mortgage experience, increasing completions by **60%**.  
-- Reduced time-to-complete by **20%** via event-driven analytics and UI optimization.  
-
----
-
-### **SpringboardAuto** — Senior Director of Product  
-_Irvine, CA | Sep 2017 – Jun 2018_  
-- Built an API-first lending platform that boosted dealership revenue by **50%**.  
-- Applied predictive ML to score applicants’ likelihood to book a loan.  
-
----
-
-### **Edmunds.com** — Director of Product  
-_Santa Monica, CA | Dec 2007 – Jul 2015_  
-- Expanded API ecosystem to **8,500+ developers / 7,000+ applications**, fueling brand reach.  
-- Created **@EdmundsLive**, a first-of-its-kind Twitter car-buying assistant (Webby Honoree).  
-- Improved pre-owned vehicle conversions **9×** through UX redesigns and faster data delivery.  
+- **Led end-to-end product strategy** for the Marketing Engine platform across **24 countries**, managing **$350M+ in annual vendor marketing revenue** and driving measurable campaign performance improvements.  
+- **Redesigned marketing-campaign operations**, reducing cycle times from **13 days to 2 days (85% improvement)**, achieving **90% adoption**, and freeing **120+ monthly hours** for the data team to focus on optimization and insights.  
+- **Launched the Ultra loyalty ecosystem** from concept to production in **8+ countries**, aligning product, engineering, finance, and regional marketing teams while establishing new revenue-attribution frameworks.  
+- **Architected a migration strategy** from a third-party marketing backend to an in-house system, securing a **$500K budget** and ensuring operational continuity for platforms handling **$350M+ in vendor-driven marketing revenue**.  
+- **Built a marketing attribution and analytics infrastructure**, implementing **multi-touch attribution models** and real-time dashboards that improved ROI visibility and revenue optimization across **50+ global marketing programs**.  
 
 ---
 
 ### **AOL** — Technical Manager, Client Software Engineering  
-_Dulles, VA / Beverly Hills, CA | Jul 2000 – Dec 2007_  
-- Led engineering for **AOL 9.0**, **AIM**, **Netscape**, and **Winamp**.  
-- Reduced release cycles from months to days via automated localization tooling.  
-- Migrated infrastructure to Linux, saving $5M+ annually.  
-- **AOL Top Talent Award Recipient (2004).**  
+> **Led build engineering for some of the internet’s earliest icons — from AOL 9.0 and AIM to Netscape and Winamp — shaping how millions first came online.**  
+
+- Became the **youngest engineering manager in AOL’s history at the time**, leading global teams supporting 150+ software initiatives.  
+- Led localization for **AOL 6.0 Hong Kong**, navigating complex double-byte character sets for new markets.  
+- Earned **AOL Top Talent Award (2004)** for innovation on AOL 9.0 build systems.  
+- Built automation and localization tools that cut release cycles from months to days, saving **$25M annually in opex**.  
+
+---
+
+### **Edmunds.com** — Director of Product, Consumer  
+> **Helped reinvent how people shop for cars online — scaling API partnerships to thousands of developers and winning a Webby Award for digital customer engagement.**  
+
+- Expanded the Edmunds API ecosystem to **8,500+ active developers** and **7,000+ registered apps**, fueling partner growth.  
+- Improved used-vehicle lead conversions by **9×** through UX redesigns and page-load optimization (5× faster than legacy).  
+- Created **@EdmundsLive**, a first-of-its-kind Twitter car-shopping assistant and **Webby Award Honoree**.  
+- Led a full redesign of the search results page (SRP), boosting conversion by **40%** and enhancing scalability.  
+- Launched API widget partnerships generating new lead channels and reducing customer-acquisition costs.  
+
+---
+
+### **Happy Money** — Director of Product, Consumer Lending  
+> **Brought behavioral science to banking — blending emotional intelligence and data to help millions reduce debt and build financial wellness.**  
+
+- Increased loan application conversions by **8%**, driving **$18M+ in incremental revenue** through data-driven A/B testing.  
+- Delivered the **Joy Savings Account** in 90 days — merging fintech agility with emotion-positive design.  
+- Operationalized a data infrastructure stack (**Segment, Mixpanel, Split.io**) to enable personalization and experimentation.  
+- Halved product-delivery cycle time by introducing pre-QA validation and parallel testing workflows.  
+- Aligned a **50+ person cross-functional org** around outcome-based KPIs to drive iteration and results.  
+
+---
+
+### **SpringboardAuto** — Senior Director of Product  
+> **Pioneered API-driven auto lending — empowering dealers and consumers with instant, personalized financing through predictive machine learning.**  
+
+- Increased dealership revenue by **50%** via an API that generated bespoke loan terms per VIN.  
+- Integrated **predictive ML scoring** to assess loan-booking likelihood and optimize origination efficiency.  
+- Unified dealer and consumer experiences under a single product vision and metrics framework.  
+- Designed scalable partner APIs that extended lending capabilities to credit unions nationwide.  
+- Defined success metrics and instrumentation to monitor approval rates and booking velocity in real time.  
+
+---
+
+### **loanDepot** — Vice President of Product, Consumer  
+> **Reimagined the mortgage experience — building a digital application that boosted completions 60% and set new standards for simplicity in home lending.**  
+
+- Drove a **60% lift in mortgage-application completions** through event-driven analytics and UX refinement.  
+- Reduced application completion time by **20%** by eliminating operational inefficiencies and friction points.  
+- Partnered with engineering and marketing to deploy a data-backed, conversion-optimized flow.  
+- Integrated real-time tracking to align product KPIs with conversion and funding metrics.  
+- Championed a rapid-iteration culture to compete with Rocket Mortgage on experience speed and clarity.  
+
+---
+
+### **eFleckt** — Founder & Builder  
+> **Transforming memories into meaning — a voice-first memoir app that turns spoken moments into organized, emotional stories using AI.**  
+
+- Created and designed **eFleckt**, a voice-journaling app that transcribes, summarizes, and maps emotional tone.  
+- Built using **Flutter**, **Firebase**, **GCP**, and **Stripe**, integrating LLMs for transcription and sentiment analysis.  
+- Designed UI and memory visualization in **Figma** and **Framer** for cross-platform cohesion.  
+- Architected server workflows for sequential AI processing, reducing processing time to ~60 seconds per recording.  
+- Developed a unique calendar-based UX visualizing 52×100 “life weeks” of emotional history.  
 
 ---
 
@@ -103,9 +131,10 @@ _Dulles, VA / Beverly Hills, CA | Jul 2000 – Dec 2007_
 ### **eFleckt** — Voice-First Memoir App  
 [www.eFleckt.com](https://www.efleckt.com)  
 A personal storytelling platform that uses your voice, AI, and emotion mapping to help you build your memoir over time.  
-- Built using **Flutter**, **Firebase**, **GCP**, and **Stripe**.  
+
+- Built with **Flutter**, **Firebase**, **GCP**, **Posthog**, **Airtable**, and **Stripe**.  
 - Integrates **LLMs** for transcription, summarization, and sentiment analysis.  
-- Designed UX system in **Figma** and **Framer** to ensure cross-platform consistency.  
+- Designed the UX system in **Figma** and **Framer** for cross-platform consistency.  
 
 ![eFleckt Memory Grid](/assets/img/efleckt_mockup.jpg)  
 
@@ -121,11 +150,11 @@ A personal storytelling platform that uses your voice, AI, and emotion mapping t
 
 ## 💡 Personal Philosophy  
 I build products that create **trust through clarity**, reduce friction, and empower users to make confident decisions.  
-Whether launching a fintech product or scaling a global B2B marketplace, I’m focused on connecting **data, empathy, and design** to deliver measurable business outcomes.  
+Whether launching a fintech product or scaling a global B2B marketplace, I focus on connecting **data, empathy, and design** to deliver measurable business outcomes.  
 
 ---
 
-> *“Leadership isn’t about authority — it’s about clarity, connection, and the courage to build what matters.”*
+> *“Leadership isn’t about authority — it’s about clarity, connection, and the courage to build what matters.”*  
 
 ---
 
