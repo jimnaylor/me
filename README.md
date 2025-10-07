@@ -1,10 +1,10 @@
 # Jim Naylor  
-## Leader & Builder of 0→1 Consumer, Marketplace, and Martech Products
+## Leader & Builder of 0→1 Products
 
-### Loyalty • Fintech • SaaS • CDP • AI & Voice  
+### Loyalty • Marketplaces • Fintech • SaaS • Martech • AI & Voice  
 
 #### Technical Skills  
-0→1 Product Creation • Product Strategy & Operations • CDP & Martech Architecture • Data Hygiene & Attribution Modeling • Applied AI & LLM Orchestration • Experimentation & Analytics • UX Research & Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter Development • Firebase & GCP Integration • Payments Architecture (Stripe, Twilio)
+0→1 Product Creation • Product Strategy & Operations • CDP & Martech Architecture • Data Hygiene & Attribution Modeling • Applied AI & LLM Orchestration • Experimentation & Analytics • UX Research and Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter Development • Firebase & GCP Integration • Payments Architecture (Stripe, Twilio)
 
 #### Systems & Platforms  
 **Product & Collaboration:** Jira • Confluence • Productboard • Workfront • Aha! • Figma • Framer • Slack  
@@ -12,7 +12,7 @@
 **Martech & CDP:** Adobe Experience Platform • Marketo • Salesforce Marketing Cloud • CarltonOne • SAP Marketing Cloud  
 **Fintech & Commerce:** Stripe • Plaid • Salesforce CRM • FICO APIs  
 **Automotive & Marketplaces:** Carvana Platform • Edmunds API • Dealertrack • RouteOne • loanDepot (Encompass)  
-**AI & Cloud:** OpenAI APIs • Firebase • GCP • Zapier • n8n • GitHub  
+**AI & Cloud:** OpenAI APIs • Zapier • n8n • GitHub
 **Legacy & Engineering:** Solaris • Linux • Visual Studio • Perforce • AOL Build Systems  
 
 ---
@@ -175,7 +175,7 @@ Whether launching a fintech product or scaling a global B2B marketplace, I focus
 
 ---
 
-> *“I’ve built from zero enough times to know the real advantage isn’t speed — it’s clarity. When teams document what they learn, they don’t just ship features; they build systems other people can grow upon.”*  
+_“I’ve built from zero enough times to know the real advantage isn’t speed — it’s clarity. When teams document what they learn, they don’t just ship features; they build systems other people can grow upon.”_
 
 ---
 
