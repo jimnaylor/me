@@ -7,13 +7,11 @@
 0→1 Product Creation • Product Strategy & Operations • CDP & Martech Architecture • Data Hygiene & Attribution Modeling • Applied AI & LLM Orchestration • Experimentation & Analytics • UX Research and Design • Roadmapping • Agile Leadership • API Ecosystems • Flutter Development • Firebase & GCP Integration • Payments Architecture (Stripe, Twilio)
 
 #### Systems & Platforms  
-**Product & Collaboration:** Jira • Confluence • Productboard • Workfront • Aha! • Figma • Framer • Slack  
-**Analytics & Data:** Adobe Analytics • GA4 • Mixpanel • Posthog • FullStory • BigQuery • Looker • Optimizely  
-**Martech & CDP:** Adobe Experience Platform • Marketo • Salesforce Marketing Cloud • CarltonOne • SAP Marketing Cloud  
-**Fintech & Commerce:** Stripe • Plaid • Salesforce CRM • FICO APIs  
-**Automotive & Marketplaces:** Carvana Platform • Edmunds API • Dealertrack • RouteOne • loanDepot (Encompass)  
-**AI & Cloud:** OpenAI APIs • Zapier • n8n • GitHub
-**Legacy & Engineering:** Solaris • Linux • Visual Studio • Perforce • AOL Build Systems  
+**Product & Collaboration:** Atlassian Suite • Productboard • Workfront • Figma • Framer • Slack • Airtable • Miro
+**Analytics & Data:** Segment • Mixpanel • Posthog • FullStory • BigQuery • Looker • Split.io • Adobe Analytics • GA4 •  
+**Martech:** Twilio • Adobe • Branch.io • CarltonOne
+**Fintech & Commerce:** Stripe • Plaid • FICO APIs
+**AI & Cloud:** OpenAI APIs • Zapier • n8n • GitHub • Replicate • GCP • AWS
 
 ---
 
